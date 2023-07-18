@@ -10,3 +10,5 @@ In brave browser we can earn by two ways by recieve add in notification and by s
 
 before running the script donn't forgot to install the necessary libraries.
 once you run the Script it the browser engine thought it was used by a human and so we can earn BAT.
+
+Done on 27/06/2022
